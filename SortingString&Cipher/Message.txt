@@ -1,0 +1,5 @@
+Date: 2020. 05. 20.
+Message to be ciphered
+The grand campaign will begin 2020:06:01 06:30AM, at Yeungnam Univ.
+The second line of message.
+The third line of message.
